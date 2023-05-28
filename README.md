@@ -17,7 +17,7 @@ To use this dashboard, follow these steps:
 
 1. Clone the repository from GitHub:
   ```bash
-  git clone 
+  git clone git@github.com:Ewins518/IMBD-with-Dash.git
   ```
 2. Navigate to the project directory:
   ```bash
@@ -25,8 +25,8 @@ To use this dashboard, follow these steps:
   ```
 3. Run the following command to start the application:
    ```bash
-    python3 app.py
-    ```
+   python3 app.py
+   ```
 4. Open a web browser and go to http://localhost:8050 to access the dashboard.
 
 ## Features
@@ -37,6 +37,9 @@ The dashboard provides the following features and visualizations:
 Shows a dropdown to select the number of top movies to display (e.g., top 5, top 10, etc.).
 Displays a horizontal bar chart of the selected number of top-rated movies.
 The movies are categorized by rating, and the color indicates the release year.
+
+![Screenshot](/Screenshot/1.png)
+
 
 ### Distribution of the Variables
 Shows a dropdown to select the attribute for distribution (e.g., rating, release date, etc.).
