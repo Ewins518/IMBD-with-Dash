@@ -24,7 +24,7 @@ To use this dashboard, follow these steps:
   cd IMBD-with-Dash 
   ```
 3. Run the following command to start the application:
-   ```bash
+  ```bash
    python3 app.py
    ```
 4. Open a web browser and go to http://localhost:8050 to access the dashboard.
@@ -49,7 +49,7 @@ Displays a histogram with a box plot, representing the distribution of the selec
 
 ### Percentage Distribution of Movies by Decade
 Displays a donut chart showing the percentage distribution of movies by decade.
-The center hole size and label placement can be customized.
+The center hole size and percentage and labels are shown inside the sectors of the chart.
 ![Screenshot](/screenshot/3.png)
 
 ### Number of Films Grouped by Date
