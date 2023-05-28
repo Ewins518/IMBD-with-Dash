@@ -61,7 +61,7 @@ The percentage and labels are shown inside the sectors of the chart.
 ### Average Rating per Decade
 Displays a bar chart showing the changes in average rating and the number of movies by decade.
 The total average rating line is also included.
-![Screenshot](/screenshot/5.png)
+![Screenshot](/screenshot/6.png)
 
 ### Data Source
 The data for this project is scraped from the IMDb website. The code fetches the top 250 movies from the IMDb website and extracts movie titles, directors, ratings, and release years.
